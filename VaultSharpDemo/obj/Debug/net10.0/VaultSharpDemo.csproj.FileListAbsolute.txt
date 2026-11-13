@@ -1,0 +1,17 @@
+C:\Users\Team\Documents\Default Project\VaultSharpDemo\bin\Debug\net10.0\VaultSharpDemo.exe
+C:\Users\Team\Documents\Default Project\VaultSharpDemo\bin\Debug\net10.0\VaultSharpDemo.deps.json
+C:\Users\Team\Documents\Default Project\VaultSharpDemo\bin\Debug\net10.0\VaultSharpDemo.runtimeconfig.json
+C:\Users\Team\Documents\Default Project\VaultSharpDemo\bin\Debug\net10.0\VaultSharpDemo.dll
+C:\Users\Team\Documents\Default Project\VaultSharpDemo\bin\Debug\net10.0\VaultSharpDemo.pdb
+C:\Users\Team\Documents\Default Project\VaultSharpDemo\bin\Debug\net10.0\VaultSharp.dll
+C:\Users\Team\Documents\Default Project\VaultSharpDemo\obj\Debug\net10.0\VaultSharpDemo.csproj.AssemblyReference.cache
+C:\Users\Team\Documents\Default Project\VaultSharpDemo\obj\Debug\net10.0\VaultSharpDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Team\Documents\Default Project\VaultSharpDemo\obj\Debug\net10.0\VaultSharpDemo.AssemblyInfoInputs.cache
+C:\Users\Team\Documents\Default Project\VaultSharpDemo\obj\Debug\net10.0\VaultSharpDemo.AssemblyInfo.cs
+C:\Users\Team\Documents\Default Project\VaultSharpDemo\obj\Debug\net10.0\VaultSharpDemo.csproj.CoreCompileInputs.cache
+C:\Users\Team\Documents\Default Project\VaultSharpDemo\obj\Debug\net10.0\VaultSha.7ADFBE4C.Up2Date
+C:\Users\Team\Documents\Default Project\VaultSharpDemo\obj\Debug\net10.0\VaultSharpDemo.dll
+C:\Users\Team\Documents\Default Project\VaultSharpDemo\obj\Debug\net10.0\refint\VaultSharpDemo.dll
+C:\Users\Team\Documents\Default Project\VaultSharpDemo\obj\Debug\net10.0\VaultSharpDemo.pdb
+C:\Users\Team\Documents\Default Project\VaultSharpDemo\obj\Debug\net10.0\VaultSharpDemo.genruntimeconfig.cache
+C:\Users\Team\Documents\Default Project\VaultSharpDemo\obj\Debug\net10.0\ref\VaultSharpDemo.dll

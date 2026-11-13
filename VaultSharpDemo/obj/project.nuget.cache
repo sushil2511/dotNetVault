@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hCF66dUS094=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Team\\Documents\\Default Project\\VaultSharpDemo\\VaultSharpDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Team\\.nuget\\packages\\vaultsharp\\1.17.5.1\\vaultsharp.1.17.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
